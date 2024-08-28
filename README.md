@@ -16,9 +16,9 @@
 <h3 align="left">Online Profiles:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rushikesh-wani-2903rw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" alt="rushikesh-wani-2903rw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishi0299" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="rishi0299" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishishiv07" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="rishishiv07" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/17731083-672d-4efa-8d9b-f2eee579a2ab" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="Codestudio" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Rushi029/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="rushi029" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rushirw29/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="rushirw29" height="30" width="40" /></a>
+<!---<a href="https://x.com/Rushii02?s=09" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 
