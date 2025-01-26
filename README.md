@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk1azh3anZzcWhtaXlvY2V1ZHpwN2o2djBsdDNqc2RzNTF4MXpwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi029&label=Profile%20views&color=0e75b6&style=flat" alt="rishi029" /> </p>
 
-- 🔭 I’m currently working on **React and NodeJs**
+- 🔭 I’m currently Focusing on **AI-ML and Data Structures**
 
 <!-- - 🌱 I’m currently learning **Flutter**-->
 
-- 💬 Ask me about **Python, SQL, JavaScript **
+- 💬 Ask me about **Python, SQL, PowerBI, JavaScript,Java(Basics)**
 
 - 📫 How to reach me **rushirwani293@gmail.com**
 
