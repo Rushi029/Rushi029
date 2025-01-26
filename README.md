@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning **Flutter**-->
 
-- 💬 Ask me about **Python, SQL, PowerBI, JavaScript,Java(Basics)**
+- 💬 Ask me about **Python, SQL, PowerBI, JavaScript, Java(Basics)**
 
 - 📫 How to reach me **rushirwani293@gmail.com**
 
