@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmk1azh3anZzcWhtaXlvY2V1ZHpwN2o2djBsdDNqc2RzNTF4MXpwdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rushi029&label=Profile%20views&color=0e75b6&style=flat" alt="Rushi029" /> </p>
 
-- 🔭 I’m currently Focusing on **Java Development**
+- 🔭 I’m currently Focusing on **Java Development and GenAI**
 
 - 🌱 I’m currently learning **DSA and Java Frameworks(SpringBoot)**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rushikeshwani.210@gmail.com**
 
-- ⚡ Fun fact : **To Teach is to learn Twice.**
+- ⚡ Fun fact : **From “Hello World” to “What’s Next?” 🚀**
 
 <h3 align="left">🌐 Socials Profiles:</h3>
 <p align="left">
